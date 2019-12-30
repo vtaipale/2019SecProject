@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>List of Signups</title>
+</head>
+<body>
+
+<h1>List of Signups</h1>
+<p>
+    Count = <span th:text="${cnt}">cnt</span>
+</p>
+<ul>
+    <li th:each="signup : ${signups}">
+        <span th:text="${signup.name}">signup</span> :
+        <span th:text="${signup.address}">signup</span>
+    </li>
+</ul>
+<p><a href="/form">New Signup</a></p>
+
+<p><a href="/">Homepage</a></p>
+ </body>
+</html>

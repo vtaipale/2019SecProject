@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78644610-1fcb-4a8e-bc93-1ef698b959af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VfQcfOIGIFp0zILHrRSA6TPOYf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="1" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sec.project.controller" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="sec.project.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CyberSecurityBaseProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cybersecuritybase-project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sec.project.CyberSecurityBaseProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78644610-1fcb-4a8e-bc93-1ef698b959af" name="Default Changelist" comment="" />
+      <created>1577641749690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577641749690</updated>
+      <workItem from="1577641751870" duration="15640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1577644607707">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1577644607707" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1577693723634">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577693723634" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1577693723633">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577693723633" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1577693723632">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577693723632" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1577693723633">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577693723633" />
+    <state width="1398" height="239" key="GridCell.Tab.1.bottom" timestamp="1577693723636">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577693723636" />
+    <state width="1398" height="239" key="GridCell.Tab.1.center" timestamp="1577693723635">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1577693723635" />
+    <state width="1398" height="239" key="GridCell.Tab.1.left" timestamp="1577693723635">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1577693723635" />
+    <state width="1398" height="239" key="GridCell.Tab.1.right" timestamp="1577693723636">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1577693723636" />
+    <state x="208" y="33" key="SettingsEditor" timestamp="1577644831639">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="33" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1577644831639" />
+    <state x="375" y="219" width="689" height="462" key="find.popup" timestamp="1577642366509">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="375" y="219" width="689" height="462" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1577642366509" />
+    <state width="812" height="305" key="javadoc.popup.new" timestamp="1577693430708">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="812" height="305" key="javadoc.popup.new/0.0.1440.900@0.0.1440.900" timestamp="1577693430708" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1577658365363">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1577658365363" />
+  </component>
+</project>
